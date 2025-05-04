@@ -1,0 +1,1 @@
+![](https://github.com/hejthor/hejthor/releases/latest/download/summary.png)
