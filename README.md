@@ -1,1 +1,1 @@
-![](https://github.com/hejthor/hejthor/releases/latest/download/summary.png)
+[![](https://github.com/hejthor/hejthor/releases/latest/download/summary.png)](https://github.com/hejthor/hejthor/releases/latest/download/summary.pdf)
